@@ -1,0 +1,8 @@
+This repo allows you to quickly create a starting point for making a website.
+
+To get started clone this directory to the directory you want. For example:
+ git clone http://github.com/yamatt/xhtml-template.git new-site
+ 
+This will give you all the files you need to get started in the new-site directory.
+
+You will need to run download-frameworks.sh first to download the latest version of jquery. This will become more advanced in future.
